@@ -40,6 +40,7 @@ DAMAGE.
 */
 
 #include "GpuDelaunay.h"
+#include <thrust/device_malloc.h>
 
 #include <iomanip>
 #include <iostream>
